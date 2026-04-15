@@ -10,8 +10,6 @@ Script hoạt động dựa trên lõi xử lý FFmpeg. Bạn bắt buộc phả
 - **macOS**: Chạy lệnh `brew install ffmpeg`
 - **Linux**: Chạy lệnh `sudo apt-get install ffmpeg`
 
-Trong project đã có sẵn thư mục FFmpeg, bạn chỉ cần thêm PATH vào biến môi trường của máy tính.
-
 ### 2. Cài đặt Node.js
 - Tải bản Node.js LTS (Long Term Support) mới nhất từ website: https://nodejs.org/ và cài đặt nếu máy tính bạn chưa có.
 
