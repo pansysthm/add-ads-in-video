@@ -1,0 +1,25 @@
+{
+  "name": "video-ad-inserter",
+  "version": "1.0.0",
+  "description": "Simple script to insert ads into videos",
+  "main": "ad-inserter.ts",
+  "type": "commonjs",
+  "scripts": {
+    "start": "ts-node ad-inserter.ts",
+    "dev": "tsx ad-inserter.ts"
+  },
+  "keywords": [
+    "video",
+    "ad",
+    "ffmpeg"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "tsx": "^4.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
